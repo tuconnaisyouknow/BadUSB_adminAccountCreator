@@ -33,7 +33,7 @@ You can customize the **delay** according to the speed in which you plug the **B
 
 2. Install **Arduino software** [here](https://www.arduino.cc/en/software) (if you have a BadUSB based on Arduino);
 
-3. Have a victim with **Windows OS** installed on his PC.
+3. Have a victim with **Windows OS** installed in his PC.
 ## Install
 1. Download this repository;
 
